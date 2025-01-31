@@ -258,7 +258,3 @@ Une fois `ci.yml` ajouté, **GitHub Actions s'exécutera automatiquement**.
 ✔ **Secrets configurés dans GitHub**  
 ✔ **Déploiement Terraform et de l'application automatisé**  
 
----
-
-## 📌 Prochaine Étape
-📌 Ajoutez ce **README_Migration.md** à votre dépôt pour aider d'autres développeurs ! 🚀🔥
